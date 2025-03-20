@@ -1,7 +1,7 @@
 Scryper Network Tool is your ultimate command-line network diagnostic suite. Whether you're a tech enthusiast, network admin, or just want powerful tools in your hands, Scryper provides everything you need in one place. 🔥
 
 Im setting up the Account for Paid users wich will have other tools like pn checker maybe even control someones pc but only maybe
-
+For paid users theres a social media fetcher it also has instagram but instagram doesnt work yet but you can use the tiktok one that one works
 
 Ping a Website or IP
 Track IP addresses
