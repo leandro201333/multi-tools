@@ -24,26 +24,17 @@ Login: Existing users can log in, while new users can create accounts.
 Admin Control: Full control for admins to view all users, change passwords, and more.
 🚀 Installation Guide
 Step 1: Download the Files
-Clone this repository or download the ZIP from GitHub:
+download the ZIP from GitHub:
 
-git clone https://github.com/leandro201333/scryper-network-tool.git
 Step 2: Install Prerequisites
 Windows OS: This tool is built for Windows.
 
 Curl: Ensure curl is installed to fetch data (like your public IP or IP geolocation).
 
-If you don't have curl, download and install it from here.
+If you don't have curl, download it
 
-Step 3: Set Up users.txt
-The users.txt file stores your users' credentials.
-Format for users.txt:
+Step 3: download the users.txt file
 
-username password account_type
-admin adminpassword admin
-user1 user1password free
-user2 user2password free
-paid userpassword paid
-Step 4: Run the Tool
 Double-click scryper.bat to launch the tool. Follow the prompts to either log in or register.
 🔧 How To Use
 Login/Registration:
