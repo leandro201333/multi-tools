@@ -23,19 +23,10 @@ Create User Accounts: Easily register with your email and a secure password.
 Login: Existing users can log in, while new users can create accounts.
 Admin Control: Full control for admins to view all users, change passwords, and more.
 🚀 Installation Guide
-Step 1: Download the Files
-download the ZIP from GitHub:
 
-Step 2: Install Prerequisites
-Windows OS: This tool is built for Windows.
-
-Curl: Ensure curl is installed to fetch data (like your public IP or IP geolocation).
-
-If you don't have curl, download it
-
-Step 3: download the users.txt file
-
-Double-click scryper.bat to launch the tool. Follow the prompts to either log in or register.
+1. Click on script and then download zip
+2. extract the .zip file
+3. double click on scryper.bat to start using
 🔧 How To Use
 Login/Registration:
 
