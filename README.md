@@ -27,9 +27,10 @@ Login: Existing users can log in, while new users can create accounts.
 Admin Control: Full control for admins to view all users, change passwords, and more.
 🚀 Installation Guide
 
-1. Click on script and then download zip
-2. extract the .zip file
-3. double click on scryper.bat to start using
+1. Install python from the microsoft store or from www.python.org/downloads/
+2. Click on script and then download zip
+3. extract the .zip file
+4. double click on scryper.bat to start using
 🔧 How To Use
 Login/Registration:
 
