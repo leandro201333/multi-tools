@@ -26,7 +26,7 @@ Admin Control: Full control for admins to view all users, change passwords, and 
 Step 1: Download the Files
 Clone this repository or download the ZIP from GitHub:
 
-git clone https://github.com/your-username/scryper-network-tool.git
+git clone https://github.com/leandro201333/scryper-network-tool.git
 Step 2: Install Prerequisites
 Windows OS: This tool is built for Windows.
 
