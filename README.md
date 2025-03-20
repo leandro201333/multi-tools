@@ -1,5 +1,8 @@
 Scryper Network Tool is your ultimate command-line network diagnostic suite. Whether you're a tech enthusiast, network admin, or just want powerful tools in your hands, Scryper provides everything you need in one place. 🔥
 
+Im setting up the Account for Paid users wich will have other tools like pn checker maybe even control someones pc but only maybe
+
+
 Ping a Website or IP
 Track IP addresses
 Run DNS Lookups
