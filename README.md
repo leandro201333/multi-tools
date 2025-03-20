@@ -23,6 +23,7 @@ User Management: Admins can view users, modify passwords, and manage accounts.
 Logs: Keep track of activity with built-in logging features for actions like DNS lookups, Tracert results, and more.
 🔒 Secure Login & Registration
 Create User Accounts: Easily register with your email and a secure password.
+btw when creating an account you have to enter your email where youll get a verfy code 
 Login: Existing users can log in, while new users can create accounts.
 Admin Control: Full control for admins to view all users, change passwords, and more.
 🚀 Installation Guide
